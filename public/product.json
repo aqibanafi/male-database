@@ -1,0 +1,123 @@
+[
+  {
+    "idMeal": "52767",
+    "strArea": "British",
+    "strIngredient": "plain flour",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
+    "strMeal": "Bakewell tart",
+    "price": 150,
+    "quantity": 0,
+    "shipping": 30
+  },
+{
+    "idMeal": "52792",
+    "strArea": "British",
+    "strIngredient": "Butter",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg",
+    "strMeal": "Bread and Butter Pudding",
+    "price": 80,
+    "quantity": 0,
+    "shipping": 20
+  },
+{
+    "idMeal": "52803",
+    "strArea": "British",
+    "strIngredient": "mushrooms",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "strMeal": "Beef Wellington",
+    "price": 230,
+    "quantity": 0,
+    "shipping": 40
+  },
+{
+    "idMeal": 52807,
+    "strArea": "Indian",
+    "strIngredient": "Aubergine",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "strMeal": "Baingan Bharta",
+    "price": 410,
+    "quantity": 0,
+    "shipping": 30
+  },
+{
+    "idMeal": 52812,
+    "strArea": "American",
+    "strIngredient": "Beef Brisket",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+    "strMeal": "Beef Brisket Pot Roast",
+    "price": 60,
+    "quantity": 0,
+    "shipping": 22
+  },
+{
+    "idMeal": 52824,
+    "strArea": "British",
+    "strIngredient": "Beef",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+    "strMeal": "Beef Sunday Roast",
+    "price": 250,
+    "quantity": 0,
+    "shipping": 50
+  },
+{
+    "idMeal": 52826,
+    "strArea": "Mexican",
+    "strIngredient": "Beef",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+    "strMeal": "Braised Beef Chilli",
+    "price": 300,
+    "quantity": 0,
+    "shipping": 30
+  },
+{
+    "idMeal": 52834,
+    "strArea": "Russian",
+    "strIngredient": "Olive Oil",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+    "strMeal": "Beef stroganoff",
+    "price": 560,
+    "quantity": 0,
+    "shipping": 30
+  },
+{
+    "idMeal": 52842,
+    "strArea": "British",
+    "strIngredient": "Rapeseed Oil",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+    "strMeal": "Broccoli & Stilton soup",
+    "price": 200,
+    "quantity": 0,
+    "shipping": 0
+  },
+{
+    "idMeal": 52848,
+    "strArea": "British",
+    "strIngredient": "Sausages",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg",
+    "strMeal": "Bean & Sausage Hotpot",
+    "price": 45,
+    "quantity": 0,
+    "shipping": 5
+  },
+{
+    "idMeal": 52873,
+    "strArea": "British",
+    "strIngredient": "Olive Oil",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg",
+    "strMeal": "Beef Dumpling Stew",
+    "price": 390,
+    "quantity": 0,
+    "shipping": 14
+  },
+{
+    "idMeal": 52855,
+    "strArea": "American",
+    "strIngredient": "Banana",
+    "strMealThumb": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+    "strMeal": "Banana Pancakes",
+    "price": 40,
+    "quantity": 0,
+    "shipping": 10
+    
+  }
+]
